@@ -11,3 +11,5 @@ This project showcases an Excel-based sales analytics dashboard aimed at visuali
 
 ### 🧑‍💼 Sales Rep Performance Overview 
 This chart represents the performance of individual sales representatives based on the number of products sold. Karthik leads the pack with 49 sales, followed closely by Rajesh and Nisar. This bar chart helps identify top performers and those who might need support or coaching to reach higher targets.
+
+![Image](https://github.com/user-attachments/assets/1f99599c-2b3d-4744-ac62-0e296d3211c4)
