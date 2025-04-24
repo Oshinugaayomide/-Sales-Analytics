@@ -10,6 +10,12 @@ This project showcases an Excel-based sales analytics dashboard aimed at visuali
 ![Image](https://github.com/user-attachments/assets/22e69326-3369-42b2-b443-cdebf91a5788)
 
 ### 🧑‍💼 Sales Rep Performance Overview 
+
 This chart represents the performance of individual sales representatives based on the number of products sold. Karthik leads the pack with 49 sales, followed closely by Rajesh and Nisar. This bar chart helps identify top performers and those who might need support or coaching to reach higher targets.
 
 ![Image](https://github.com/user-attachments/assets/1f99599c-2b3d-4744-ac62-0e296d3211c4)
+![Image](https://github.com/user-attachments/assets/5e54e544-6438-4e88-bd9a-a1c5145f5d1d)
+
+### 📚 Product Sales Performance
+
+Here, we see the revenue generated from different product categories. The Management Book tops the chart with over ₦114,000 in sales, followed by Notebook and Accounting Book. This breakdown helps businesses prioritize inventory and marketing efforts for top-performing products.
