@@ -26,3 +26,9 @@ Here, we see the revenue generated from different product categories. The Manage
 ### 🌍 Regional (Zone) Performance
 This donut chart illustrates the average sales per region. The North region shows the highest average sales at ₦1,158, contributing 28% of the total performance. This visualization is vital for understanding geographical performance and resource allocation.
 
+![Image](https://github.com/user-attachments/assets/33aadd81-dce7-4ae4-b11c-459271a80983)
+![Image](https://github.com/user-attachments/assets/e730101e-a6a9-4914-9607-380ef4e80821)
+
+### 🧮 Sales Distribution Grouping
+The grouping chart categorizes sales values into specific ranges. The majority of transactions fall within the ₦8–₦1,007 range, indicating high transaction frequency but relatively low individual sales value. This histogram helps in understanding customer purchasing power and sales distribution.
+
