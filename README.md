@@ -21,3 +21,4 @@ This chart represents the performance of individual sales representatives based 
 Here, we see the revenue generated from different product categories. The Management Book tops the chart with over ₦114,000 in sales, followed by Notebook and Accounting Book. This breakdown helps businesses prioritize inventory and marketing efforts for top-performing products.
 
 ![Image](https://github.com/user-attachments/assets/b730ed37-fb65-47b5-a4f9-6f2ddb26280a)
+![Image](https://github.com/user-attachments/assets/4f87186c-cc4e-41ed-aba0-9a2516978eea)
