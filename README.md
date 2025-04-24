@@ -1,2 +1,7 @@
-# -Sales-Analytics
-📝 Description: This project demonstrates how Microsoft Excel can be leveraged to build a dynamic and interactive sales dashboard. Using pivot tables and visual charts, this analysis offers clear insights into individual and regional performance, product-wise sales contributions, and monthly trends, empowering better business strategies.
+### 📊 Sales Analytics Dashboard in Excel
+
+This project showcases an Excel-based sales analytics dashboard aimed at visualizing key business insights such as individual sales rep performance, product contribution, regional performance, and monthly trends. These interactive visualizations provide a comprehensive understanding of sales data, aiding in performance tracking and decision-making.
+
+💡 Tools Used: Microsoft Excel, Pivot Tables, Slicers, Bar Charts, Column Charts, Donut Charts, Line Charts, Histograms, Data Grouping, Conditional Formatting
+
+🏷️ Keywords: Sales Analytics, Dashboard, Data Visualization, Excel, Business Intelligence
