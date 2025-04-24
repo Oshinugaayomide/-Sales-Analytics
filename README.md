@@ -33,16 +33,14 @@ This donut chart illustrates the average sales per region. The North region show
 The grouping chart categorizes sales values into specific ranges. The majority of transactions fall within the ₦8–₦1,007 range, indicating high transaction frequency but relatively low individual sales value. This histogram helps in understanding customer purchasing power and sales distribution.
 
 ![Image](https://github.com/user-attachments/assets/33aadd81-dce7-4ae4-b11c-459271a80983)
-
 ![Image](https://github.com/user-attachments/assets/e730101e-a6a9-4914-9607-380ef4e80821)  
 
 ### 📅 Monthly Sales Trend
 This line chart tracks monthly sales volumes, showing stable performance across the year with peaks in March, May, and August. It highlights consistent sales effort and potential seasonal trends that can be capitalized on in future strategies.
 
 ![Image](https://github.com/user-attachments/assets/80529f6a-6ecf-4bce-94e5-3c9a4a67dc5b)
-
 ![Image](https://github.com/user-attachments/assets/e353175e-749f-44b1-b34f-c5a1545ce575)
 
-✅ Conclusion
+## ✅ Conclusion
 This Excel dashboard effectively captures multiple layers of sales performance, offering a holistic view into team efficiency, product popularity, geographic strengths, and time-based trends. Whether for managerial review, team performance monitoring, or strategy development, this visual toolkit is a powerful asset in data-driven decision-making.
 
