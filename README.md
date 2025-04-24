@@ -5,3 +5,5 @@ This project showcases an Excel-based sales analytics dashboard aimed at visuali
 💡 Tools Used: Microsoft Excel, Pivot Tables, Slicers, Bar Charts, Column Charts, Donut Charts, Line Charts, Histograms, Data Grouping, Conditional Formatting
 
 🏷️ Keywords: Sales Analytics, Dashboard, Data Visualization, Excel, Business Intelligence
+
+![Image](https://github.com/user-attachments/assets/6964ad9f-c5c2-484d-b5ed-e25b899f507e)
