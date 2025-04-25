@@ -8,6 +8,7 @@ This project showcases an Excel-based sales analytics dashboard aimed at visuali
 
 ![Image](https://github.com/user-attachments/assets/6964ad9f-c5c2-484d-b5ed-e25b899f507e)
 ![Image](https://github.com/user-attachments/assets/22e69326-3369-42b2-b443-cdebf91a5788)
+![Chapoter 1 (1)](https://github.com/user-attachments/assets/5dad68a8-ba77-4ee7-8446-4bbef1d512fd)
 
 ### 🧑‍💼 Sales Rep Performance Overview 
 
