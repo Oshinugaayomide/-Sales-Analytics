@@ -12,8 +12,6 @@ This chart represents the performance of individual sales representatives based 
 
 ![Chapoter 1 (1)](https://github.com/user-attachments/assets/295c8e8b-9373-4a7e-90c2-36b908968b5d)
 
-
-
 ![chapter 2 (1)](https://github.com/user-attachments/assets/5a6a0d49-4a27-428b-a4be-52f9c9afe472)
 
 
